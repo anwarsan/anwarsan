@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anwarsan
 - 👀 I’m interested in Data Technology and its application.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working as a Data Scientist
 - 💞️ I’m looking to collaborate on Data Project and Product Analytics Insights
 - 📫 How to reach me: manwarsan@gmail.com
 
