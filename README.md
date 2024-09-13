@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Anwar<br>👀 I’m interested in Data Technology and its application.<br>🌱 I’m currently working as a Data Scientist<br>💞️ I’m looking to collaborate on Data Project and Product Analytics Insights including Data Analysis or Data Science<br>📫 How to reach me: san.emailme@gmail.com<br>
+👋 Hi, I’m Anwar<br>👀 I’m interested in Data Technology and its application.<br>🌱 I’m currently working as a Data Scientist<br>💞️ I’m looking to collaborate on Data Project, Teaching/Tutoring and Product Analytics Insights including Data Analysis or Data Science. <br>📫 How to reach me: san.emailme@gmail.com<br>
 
 
 ## 🌐 Socials:
